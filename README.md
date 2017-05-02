@@ -1,5 +1,7 @@
 # test-config
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/test-config.svg)](https://greenkeeper.io/)
+
 Test configuration loader
 
 ## installation
